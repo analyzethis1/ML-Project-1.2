@@ -21,7 +21,7 @@ It is designed for **real estate operators** and **facility managers** to better
 - 📈 Residual-based repair signal detection
 - 📁 Batch prediction via CSV upload
 - 🖼️ Visual insights: prediction scatter, residual histograms
-- 🚀 Deployable via Streamlit + ngrok (Colab-friendly)
+- 🚀 Deployable via Streamlit
 
 ---
 
