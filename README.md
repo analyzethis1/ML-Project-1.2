@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0%20International-blue.svg)
+
 # 🏭 HVAC Energy Forecast & Repair Prediction
 
 A machine learning + Streamlit app designed to predict commercial HVAC energy consumption and anticipate potential maintenance needs. Built for batch inference on time-series data with real-world deployment in mind.
